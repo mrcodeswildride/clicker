@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+#cat,
+#dog,
+#wolf,
+#leopard,
+#tiger,
+#lion,
+#elephant,
+#stop {
+    display: none;
+}
+
+#points,
+#pointsPerClick,
+#autoClicks {
+    font-size: 24px;
+}
+
+button {
+    user-select: none;
+}
+
+#addPointPerClick {
+    margin-right: 5px;
+}
